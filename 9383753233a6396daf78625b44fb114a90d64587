@@ -1,0 +1,211 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "44c3d54b_99c428da",
+        "filename": "INFO.yaml",
+        "patchSetId": 3
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 481
+      },
+      "writtenOn": "2019-04-23T17:40:55Z",
+      "side": 1,
+      "message": "Asia/Shanghai is the correct timezone",
+      "range": {
+        "startLine": 11,
+        "startChar": 15,
+        "endLine": 11,
+        "endChar": 29
+      },
+      "revId": "9383753233a6396daf78625b44fb114a90d64587",
+      "serverId": "14b4e41f-c4e3-4fb9-9955-6a9b5656895a",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "04395254_a41b9ecd",
+        "filename": "INFO.yaml",
+        "patchSetId": 3
+      },
+      "lineNbr": 44,
+      "author": {
+        "id": 481
+      },
+      "writtenOn": "2019-04-23T17:40:55Z",
+      "side": 1,
+      "message": "Asia/Shanghai is the correct timezone",
+      "range": {
+        "startLine": 44,
+        "startChar": 17,
+        "endLine": 44,
+        "endChar": 30
+      },
+      "revId": "9383753233a6396daf78625b44fb114a90d64587",
+      "serverId": "14b4e41f-c4e3-4fb9-9955-6a9b5656895a",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "50f4316f_aec9b01f",
+        "filename": "INFO.yaml",
+        "patchSetId": 3
+      },
+      "lineNbr": 49,
+      "author": {
+        "id": 481
+      },
+      "writtenOn": "2019-04-23T17:40:55Z",
+      "side": 1,
+      "message": "Asia/Shanghai is the correct timezone",
+      "range": {
+        "startLine": 49,
+        "startChar": 17,
+        "endLine": 49,
+        "endChar": 30
+      },
+      "revId": "9383753233a6396daf78625b44fb114a90d64587",
+      "serverId": "14b4e41f-c4e3-4fb9-9955-6a9b5656895a",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9eb95bd9_b5b3ad28",
+        "filename": "INFO.yaml",
+        "patchSetId": 3
+      },
+      "lineNbr": 54,
+      "author": {
+        "id": 481
+      },
+      "writtenOn": "2019-04-23T17:40:55Z",
+      "side": 1,
+      "message": "America/Los_Angeles is the correct timezone",
+      "range": {
+        "startLine": 54,
+        "startChar": 17,
+        "endLine": 54,
+        "endChar": 35
+      },
+      "revId": "9383753233a6396daf78625b44fb114a90d64587",
+      "serverId": "14b4e41f-c4e3-4fb9-9955-6a9b5656895a",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7213c372_45e97e11",
+        "filename": "INFO.yaml",
+        "patchSetId": 3
+      },
+      "lineNbr": 59,
+      "author": {
+        "id": 481
+      },
+      "writtenOn": "2019-04-23T17:40:55Z",
+      "side": 1,
+      "message": "America/Los_Angeles is the correct timezone",
+      "range": {
+        "startLine": 59,
+        "startChar": 16,
+        "endLine": 59,
+        "endChar": 29
+      },
+      "revId": "9383753233a6396daf78625b44fb114a90d64587",
+      "serverId": "14b4e41f-c4e3-4fb9-9955-6a9b5656895a",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "919c2f32_9af42e06",
+        "filename": "INFO.yaml",
+        "patchSetId": 3
+      },
+      "lineNbr": 64,
+      "author": {
+        "id": 481
+      },
+      "writtenOn": "2019-04-23T17:40:55Z",
+      "side": 1,
+      "message": "Asia/Shanghai is the correct timezone",
+      "range": {
+        "startLine": 64,
+        "startChar": 17,
+        "endLine": 64,
+        "endChar": 30
+      },
+      "revId": "9383753233a6396daf78625b44fb114a90d64587",
+      "serverId": "14b4e41f-c4e3-4fb9-9955-6a9b5656895a",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "81ff8c0f_8654c915",
+        "filename": "INFO.yaml",
+        "patchSetId": 3
+      },
+      "lineNbr": 69,
+      "author": {
+        "id": 481
+      },
+      "writtenOn": "2019-04-23T17:40:55Z",
+      "side": 1,
+      "message": "Asia/Shanghai is the correct timezone",
+      "range": {
+        "startLine": 69,
+        "startChar": 17,
+        "endLine": 69,
+        "endChar": 30
+      },
+      "revId": "9383753233a6396daf78625b44fb114a90d64587",
+      "serverId": "14b4e41f-c4e3-4fb9-9955-6a9b5656895a",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "db82f5da_1e0c4f81",
+        "filename": "INFO.yaml",
+        "patchSetId": 3
+      },
+      "lineNbr": 74,
+      "author": {
+        "id": 481
+      },
+      "writtenOn": "2019-04-23T17:40:55Z",
+      "side": 1,
+      "message": "Asia/Kolkata is the correct timezone",
+      "range": {
+        "startLine": 74,
+        "startChar": 17,
+        "endLine": 74,
+        "endChar": 27
+      },
+      "revId": "9383753233a6396daf78625b44fb114a90d64587",
+      "serverId": "14b4e41f-c4e3-4fb9-9955-6a9b5656895a",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7683fb04_62cb3e86",
+        "filename": "INFO.yaml",
+        "patchSetId": 3
+      },
+      "lineNbr": 79,
+      "author": {
+        "id": 481
+      },
+      "writtenOn": "2019-04-23T17:40:55Z",
+      "side": 1,
+      "message": "Asia/Shanghai is the correct timezone",
+      "range": {
+        "startLine": 79,
+        "startChar": 17,
+        "endLine": 79,
+        "endChar": 30
+      },
+      "revId": "9383753233a6396daf78625b44fb114a90d64587",
+      "serverId": "14b4e41f-c4e3-4fb9-9955-6a9b5656895a",
+      "unresolved": false
+    }
+  ]
+}
